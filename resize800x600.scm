@@ -6,7 +6,7 @@
 
 (script-fu-register
     "script-fu-resize800x600"         ;Script name
-    "<Image>/Scripts/resize800x600" ;Menu
+    "<Image>/Script-Fu/resize800x600" ;Menu
     "Resize Image 800x600 "           ;Description
     "emasaka"            ;Creater
     "copyright 2014, emasaka"	      ;copyright notice
